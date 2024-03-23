@@ -1,0 +1,99 @@
+.emka:hover {
+    color: darkred;
+}
+
+.awm:hover {
+    color: gold;
+}
+
+.usP:hover {
+    color: orangered;
+}
+
+.Fbm:hover {
+    color: yellow;
+}
+
+.digl:hover {
+    color: red;
+}
+
+.ker:hover {
+    color: navy;
+}
+
+.djek:hover {
+    color: orangered;
+}
+
+.baterr:hover {
+    color: purple;
+}
+
+.flip:hover {
+    color: springgreen;
+}
+
+.kun:hover {
+    color: tomato;
+}
+
+.tanto:hover {
+    color: mediumvioletred;
+}
+
+.tik:hover {
+    color: olivedrab;
+}
+
+.kykri:hover {
+    color: teal;
+}
+
+.stilet:hover {
+    color: royalblue;
+}
+
+.fang:hover {
+    color: yellow;
+}
+
+.im:hover {
+    color: red;
+}
+
+.chit:hover {
+    color: yellow;
+}
+
+p {
+    font-size: 30px;
+    text-align: center;
+
+}
+
+main {
+    font-size: 20px;
+    text-align: center;
+}
+
+img {
+    height: 250;
+}
+
+a {
+    font-size: 20px;
+    text-align: center;
+}
+
+img src {
+    height: 20px;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content:space-around
+    
+}
+
